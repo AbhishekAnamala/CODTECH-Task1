@@ -1,3 +1,5 @@
+/*This code is for register and login routes*/
+
 const express = require('express');
 const bcrypt = require('bcryptjs');
 const router = express.Router();
