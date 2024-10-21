@@ -7,4 +7,5 @@ directory\routes structure
 │   └── authRoutes.js
 ├── public
     ├── index.html
+    ├──scripts.js
     └── styles.css
